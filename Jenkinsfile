@@ -22,7 +22,7 @@ pipeline{
         branch "main"
       }
       steps{
-        echo "deploy to prd environment"
+        echo "deploy to main environment"
       }
     }
   }
